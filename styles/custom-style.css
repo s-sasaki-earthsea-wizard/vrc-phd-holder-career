@@ -139,6 +139,7 @@
 
 /* プロフィールカード用のカラム */
 .profile-left {
+    color: #24292e;
     flex: 10;
     background-color: #f8f9fa;
     border-radius: 30px;
@@ -164,6 +165,7 @@
 }
 
 .highlight-box {
+    color: #24292e;
     background-color: #f8f9fa;
     border-left: 16px solid #0084ff;
     padding: 15px;
@@ -174,9 +176,11 @@
 }
 
 .simple-box {
+    color: #24292e;
     background-color: #f8f9fa;
     display: flex;
     width: 100%;
+    padding: 10px;
     padding-left: 10px;
     margin-left: 0%;
     padding-right: 10px;
